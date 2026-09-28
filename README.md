@@ -1,2 +1,1 @@
-# Loren_Nails-
-Adjunto evidencia de avance de los formularios 
+#Actualizacion en el proyecto Lorren_Nails
